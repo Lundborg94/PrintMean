@@ -14,11 +14,11 @@ public class PrintMean {
     }
 
     public static String MeanCalc(double a, double b, double c , double d) {
-        // Gör en sträng av "mean"
+        // Gör en sträng av "mean TEST
 
         double Mean = (a + b + c + d) /4;
         return " is " + Mean;
 
-        
+
     }
 }
